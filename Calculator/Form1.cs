@@ -19,7 +19,7 @@ namespace Calculator
 
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); //this realy funny
         }
 
         private void Calculate_KeyPress(object sender, KeyPressEventArgs e)
